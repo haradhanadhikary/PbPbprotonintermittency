@@ -17,10 +17,10 @@
    (first week of March)
 
 ## Work remaining for final release (full presentation on next week in Kielce Analysis meeting):
-1. Cross-checking preliminary release results using latest production of Pb+Pb data
+1. Cross-check preliminary release results using latest production of Pb+Pb data
 
    (cross-checking almost done)
-3. Checking results with acceptance map
+3. Check results with acceptance map
 
    (N.B: for preliminary results, acceptance maps were created with Ar+Sc 13A, 30A MC due to lack of EPOS MC data of Pb+Pb MC)
 
