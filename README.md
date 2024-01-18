@@ -6,6 +6,8 @@
 
 ## Next step for publications:
 
+Marek's limited availability: 13-16 Feb   Kielce: AFTER CRITICAL WORKSHOP ()
+
 1. Final release of proton intermittency results of Pb+Pb at 13A and 30A
 
    (mid February)
@@ -52,3 +54,11 @@
 
 ## Drafting publication:
 - Started to draft the paper for Pb+Pb, text are taken from Ar+Sc 13-75A proton intermittency paper  
+
+
+
+## PhD defense plan:
+- Two positive report received
+- Public announcement for one month (pass by institute board )
+- Beginning of March (Have to book flight ticket)
+- 
