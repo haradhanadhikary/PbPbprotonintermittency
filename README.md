@@ -24,7 +24,7 @@
 
    (N.B: for preliminary results, acceptance maps were created with Ar+Sc 13A, 30A MC due to lack of EPOS MC data of Pb+Pb MC)
 
-## MC comparison and exclusion-plots 
+## MC comparison and exclusion-plots: 
 
 (maybe not part of final release but needed for publication)
 
@@ -46,9 +46,9 @@
 
        (pure EPOS (smeared), rec EPOS, .. )
        
-3. Exclusion plots
+3. Exclusion plots:
 
    (more fun for Tobiasz after final release)
 
-## Drafting publication
+## Drafting publication:
 - Started to draft the paper for Pb+Pb, text are taken from Ar+Sc 13-75A proton intermittency paper  
