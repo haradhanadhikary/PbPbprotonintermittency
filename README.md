@@ -20,7 +20,7 @@
 1. Cross-check preliminary release results using latest production of Pb+Pb data
 
    (cross-checking almost done)
-3. Check results with acceptance map
+3. Check results with Pb+Pb acceptance map (new)
 
    (N.B: for preliminary results, acceptance maps were created with Ar+Sc 13A, 30A MC due to lack of EPOS MC data of Pb+Pb MC)
 
