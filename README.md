@@ -16,7 +16,7 @@
 
    (first week of March)
 
-## Work remaining for final release:
+## Work remaining for final release (will present next week in Kielce Analysis meeting):
 1. Cross-checking preliminary release results using latest production of Pb+Pb data
 
    (cross-checking almost done)
