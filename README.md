@@ -12,7 +12,7 @@
 2. Draft of the publication
 
    (end of February)  
-3. First Editorial board meeting of this this publication
+3. First Editorial board meeting for this publication
 
    (first week of March)
 
